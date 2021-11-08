@@ -16,7 +16,7 @@ Sebagai Pembanding dari sebuah variabel di dalam sebuah kondisi
 ## 3. Operator Logika
 Operator yang mebatasi jumlah karakter dari variabel data string agar dapat di tampilkan jika jumlah karakter yang di batasi bernilai true
 #### Disni saya memberikan penjelasan tiap line-nya di tampilan command dari vscode saya
-<br> ![3](https://user-images.githubusercontent.com/91447980/140688159-ec1ea2b0-a9cf-4f55-9fa8-53f5202bdadb.png) <br.
+<br> ![3](https://user-images.githubusercontent.com/91447980/140688159-ec1ea2b0-a9cf-4f55-9fa8-53f5202bdadb.png) <br>
 
 ## 4. Perulangan While
 Merupakan fungsi untuk sebuah perulangan, while sendiri bisa di bilang infinite loop jika tidak diberi break atau hasilnya selalu true
